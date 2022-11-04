@@ -1,0 +1,28 @@
+#myCarousel{
+    width: 80%;
+    margin: 0 auto;
+}
+#bodyform{
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(22,22,172,1) 49%, rgba(0,212,255,1) 100%);
+
+}
+
+.container.marketing{
+    
+    padding: 50px;
+}
+.tituloformulario{
+    text-align: center;
+    color: aliceblue;
+}
+#formu{
+    width: 60%;
+    margin: 0 auto;
+    color: aliceblue;
+    
+}
+.container{
+    padding: 0 auto;
+    
+
+}
